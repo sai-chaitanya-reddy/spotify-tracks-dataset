@@ -183,15 +183,63 @@ plt.show()
 ---
 
 ## 📈 Key Insights
+```
 ╔══════════════════════════════════════════════════════════╗
-║              DATASET HIGHLIGHTS AT A GLANCE              ║
+║           DATASET HIGHLIGHTS AT A GLANCE                 ║
 ╠══════════════════════════════════════════════════════════╣
-║  🎵  Avg Popularity     →   33.2 / 100  (mostly niche)   ║
-║  ⚡  Avg Energy         →   0.64        (leans energetic) ║
-║  💃  Avg Danceability   →   0.57        (moderately danceable) ║
-║  😊  Avg Valence        →   0.47        (slightly melancholic) ║
-║  🎹  Avg Tempo          →   122 BPM     (pop/dance range)  ║
-║  🎼  Major Key Tracks   →   63.8%       (majority upbeat)  ║
-║  🎤  Avg Speechiness    →   0.085       (mostly musical)   ║
-║  🎸  Avg Acousticness   →   0.315       (mix of both)      ║
-╚══════════════════════════════════════════════════
+║                                                          ║
+║  🎵  Avg Popularity    →   33.2 / 100  (mostly niche)    ║
+║  ⚡  Avg Energy        →   0.641       (leans energetic)  ║
+║  💃  Avg Danceability  →   0.567       (moderately dance) ║
+║  😊  Avg Valence       →   0.474       (slightly sad)     ║
+║  🎹  Avg Tempo         →   122 BPM     (pop/dance range)  ║
+║  🎼  Major Key Tracks  →   63.8%       (majority upbeat)  ║
+║  🎤  Avg Speechiness   →   0.085       (mostly musical)   ║
+║  🎸  Avg Acousticness  →   0.315       (mix of both)      ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+## 🙌 Acknowledgements
+
+- Data collected via the **[Spotify Web API](https://developer.spotify.com/documentation/web-api)**
+- Audio features computed by Spotify's proprietary audio analysis pipeline
+- Published for **educational and research purposes** under CC0 license
+- Inspired by the global data science community on Kaggle
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+**Sai Chaitanya Reddy**
+
+*AI & Data Science Undergraduate*
+*Vasireddy Venkatadri International Technological University (VVIT)*
+*Hyderabad, Telangana, India*
+
+<br/>
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow_Me-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saichaitanyareddyai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saichaitanyareddyai)
+
+</div>
+
+---
+
+## 📜 License
+
+This dataset is released under the **[CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)** license.
+
+You are free to **copy, modify, distribute and use** this data — even for commercial purposes — without asking permission.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=100&section=footer" width="100%"/>
+
+**⭐ If this dataset helped your project, please star this repo — it helps others find it too!**
+
+</div>
